@@ -1,11 +1,19 @@
 my name is GHt
 
+git config --golobal user.email ""
+
+
 git diff
 
 git init //初始化
 
-git add filename//提交
+git add filename//提交文件
 
 git commit -m "提交加注释"
 
 git status
+
+
+版本回退
+1.git log/git reflog 查看版本号
+2.git reset --hard 5b47e0c 
