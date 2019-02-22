@@ -1,0 +1,11 @@
+my name is GHt
+
+git diff
+
+git init //初始化
+
+git add filename//提交
+
+git commit -m "提交加注释"
+
+git status
